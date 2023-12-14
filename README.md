@@ -1,6 +1,6 @@
 
 
-# ![ECON380_Project.pdf](https://github.com/NianAnny/Personal-Project-Assignment-Paper/blob/main/ECON380_Project.pdf)
+# [ECON380_Project.pdf](https://github.com/NianAnny/Personal-Project-Assignment-Paper/blob/main/ECON380_Project.pdf)
 The Application Of Game Theory In Mobile Games: How Game Companies Choose Their Optimal Strategies Based On Gacha-Monetization.
 
 ## References
@@ -32,7 +32,7 @@ April 19). Retrieved on April 28 from https://sites.lsa.umich.edu/mje/2022/04/19
 
 [8] Newzoo: Mobile gaming accounts for the largest part of the 2021 market. (2021, December 22). VentureBeat. Retrieved on April 28 from https://venturebeat.com/games/newzoo-mobile-gaming-accounts-for-the-largest-part-of-the-2021-market/
 
-# ![Project_3.pdf](https://github.com/NianAnny/Personal-Project-Assignment-Paper/blob/main/Project_3.pdf)
+# [Project_3.pdf](https://github.com/NianAnny/Personal-Project-Assignment-Paper/blob/main/Project_3.pdf)
 Heating Load Model for Buidlings
 
 ## References
