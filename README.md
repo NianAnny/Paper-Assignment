@@ -1,4 +1,9 @@
-# References
+
+
+# ECON380_Project.pdf
+The Application Of Game Theory In Mobile Games: How Game Companies Choose Their Optimal Strategies Based On Gacha-Monetization.
+
+## References
 
 [1] Anonymous. (2023, March 25). Super Mario diplomacy. The Economist, 446(9339),
 S9–S10. Retrieved on April 28 from https://www.proquest.com/docview/2790570166/abstract/F3B154CD7EA74255PQ/29
