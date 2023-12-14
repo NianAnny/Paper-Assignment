@@ -31,3 +31,19 @@ Desire and Deferred Value in the Playing of Gacha Games. Games and Culture, 17(7
 April 19). Retrieved on April 28 from https://sites.lsa.umich.edu/mje/2022/04/19/is-gacha-gaming-a-profitable-strategy/
 
 [8] Newzoo: Mobile gaming accounts for the largest part of the 2021 market. (2021, December 22). VentureBeat. Retrieved on April 28 from https://venturebeat.com/games/newzoo-mobile-gaming-accounts-for-the-largest-part-of-the-2021-market/
+
+# ![Project_3.pdf](https://github.com/NianAnny/Personal-Project-Assignment-Paper/blob/main/Project_3.pdf)
+Heating Load Model for Buidlings
+
+## References
+Data: Energy Efficiency Dataset
+      https://www.kaggle.com/datasets/elikplim/eergy-efficiency-dataset
+      From https://archive.ics.uci.edu/ml/datasets/Energy+efficiency
+      
+Version: R-4.2.1
+Packages: lattice, car
+Base Packages: utils, base, graphics, stats
+
+Tsanas, A. and Xifara, A. (2012). Accurate quantitative estimation of energy performance
+of residential buildings using statistical machine learning tools. Energy and Buildings,
+Vol.49, pp. 560-567. https://tarjomefa.com/wp-content/uploads/2017/04/6453-English-TarjomeFa.pdf
