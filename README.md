@@ -1,6 +1,6 @@
 
 
-# ECON380_Project.pdf
+# ![ECON380_Project.pdf](https://github.com/NianAnny/Personal-Project-Assignment-Paper/blob/main/ECON380_Project.pdf)
 The Application Of Game Theory In Mobile Games: How Game Companies Choose Their Optimal Strategies Based On Gacha-Monetization.
 
 ## References
